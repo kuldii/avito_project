@@ -1,0 +1,47 @@
+[
+    {
+        "station_name": "botanical",
+        "latitude": 56.797559,
+        "longitude": 60.634181
+    },
+    {
+        "station_name": "chkalovskaya",
+        "latitude": 56.808545,
+        "longitude": 60.610081
+    },
+    {
+        "station_name": "geological",
+        "latitude": 56.826985,
+        "longitude": 60.603156
+    },
+    {
+        "station_name": "1905th_square",
+        "latitude": 56.836145,
+        "longitude": 60.599411
+    },
+    {
+        "station_name": "dynamo",
+        "latitude": 56.847826,
+        "longitude": 60.599521
+    },
+    {
+        "station_name": "ural",
+        "latitude": 56.857835,
+        "longitude": 60.600504
+    },
+    {
+        "station_name": "machine_builders",
+        "latitude": 56.878165,
+        "longitude": 60.611555
+    },
+    {
+        "station_name": "uralmash",
+        "latitude": 56.887753,
+        "longitude": 60.613535
+    },
+    {
+        "station_name": "kosmotnautov_avenue",
+        "latitude": 56.901889,
+        "longitude": 60.613618
+    }
+]
